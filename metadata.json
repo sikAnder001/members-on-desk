@@ -1,0 +1,6 @@
+{
+  "name": "Members on Desk",
+  "description": "Manage Members, Attendance, Subscription, Payment & WhatsApp Reminder Management App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
